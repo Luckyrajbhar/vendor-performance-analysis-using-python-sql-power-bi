@@ -1,4 +1,6 @@
 # Vendor Performance Analysis & Inventory Optimization
+<img width="1376" height="764" alt="Screenshot (111)" src="https://github.com/user-attachments/assets/9b48983f-b82b-4390-8ba1-539f3d2e9bc1" />
+
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
