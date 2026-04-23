@@ -1,13 +1,12 @@
-# Vendor Performance Analysis & Inventory Optimization
-<img width="1376" height="764" alt="Screenshot (111)" src="https://github.com/user-attachments/assets/9b48983f-b82b-4390-8ba1-539f3d2e9bc1" />
-
+# Vendor Performance Analysis & Inventory Optimizatio
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
 ## 📊 Power BI Dashboard
-![Vendor Performance Dashboard](Dashboard.png)
+<img width="1376" height="764" alt="Screenshot (111)" src="https://github.com/user-attachments/assets/b2cdca05-81ae-4469-a5de-ce1d45ec2a40" />
+
 
 ## 📌 Project Overview
 As a Data Analyst, I developed a comprehensive **Vendor Performance Analysis** model to help businesses optimize their inventory, track vendor performance, and maximize profit margins. This project bridges the gap between raw data and actionable business strategies by leveraging SQL for data transformation, Python for advanced exploratory data analysis (EDA), and Power BI for interactive visualization.
